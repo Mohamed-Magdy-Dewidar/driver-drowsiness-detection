@@ -1,0 +1,18 @@
+# Ignore build folders
+build/
+*.o
+*.obj
+*.exe
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE specific
+.vscode/
+*.suo
+*.user
+*.vcxproj.user
