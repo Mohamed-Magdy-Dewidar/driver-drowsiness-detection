@@ -1,0 +1,548 @@
+2025-08-07 03:22:19 | State: DROWSY | EAR: 0.0873918 | MAR: 0.356961 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:19 | State: DROWSY | EAR: 0.0930458 | MAR: 0.357321 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:20 | State: DROWSY | EAR: 0.0955987 | MAR: 0.364174 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:20 | State: DROWSY | EAR: 0.0979071 | MAR: 0.363471 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:20 | State: DROWSY | EAR: 0.118972 | MAR: 0.380682 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:21 | State: DROWSY | EAR: 0.0929822 | MAR: 0.365973 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:21 | State: DROWSY | EAR: 0.106523 | MAR: 0.372725 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:21 | State: DROWSY | EAR: 0.0835137 | MAR: 0.371985 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:21 | State: DROWSY | EAR: 0.078436 | MAR: 0.380209 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:22 | State: DROWSY | EAR: 0.0906152 | MAR: 0.362616 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:22 | State: DROWSY | EAR: 0.0704455 | MAR: 0.374888 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:22 | State: DROWSY | EAR: 0.0954702 | MAR: 0.368124 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:22 | State: DROWSY | EAR: 0.07226 | MAR: 0.375436 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:22 | State: DROWSY | EAR: 0.0681156 | MAR: 0.38016 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:23 | State: DROWSY | EAR: 0.0748001 | MAR: 0.36205 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:23 | State: DROWSY | EAR: 0.0865926 | MAR: 0.373447 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:23 | State: DROWSY | EAR: 0.0775571 | MAR: 0.347211 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:23 | State: DROWSY | EAR: 0.0735394 | MAR: 0.359066 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:23 | State: DROWSY | EAR: 0.0871186 | MAR: 0.352448 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:24 | State: DROWSY | EAR: 0.0865021 | MAR: 0.361407 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:24 | State: DROWSY | EAR: 0.0972385 | MAR: 0.372541 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:24 | State: DROWSY | EAR: 0.0711534 | MAR: 0.38241 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:24 | State: DROWSY | EAR: 0.0702227 | MAR: 0.357437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:24 | State: DROWSY | EAR: 0.0978421 | MAR: 0.374248 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:25 | State: DROWSY | EAR: 0.0709408 | MAR: 0.383692 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:25 | State: DROWSY | EAR: 0.0824739 | MAR: 0.374075 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:25 | State: DROWSY | EAR: 0.0644484 | MAR: 0.363893 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:25 | State: DROWSY | EAR: 0.0759723 | MAR: 0.385437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:26 | State: DROWSY | EAR: 0.0687224 | MAR: 0.366013 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:26 | State: DROWSY | EAR: 0.0859725 | MAR: 0.374393 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:26 | State: DROWSY | EAR: 0.0732836 | MAR: 0.381648 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:26 | State: DROWSY | EAR: 0.0639375 | MAR: 0.36824 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:26 | State: DROWSY | EAR: 0.0762763 | MAR: 0.363489 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:27 | State: DROWSY | EAR: 0.0702009 | MAR: 0.358151 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:27 | State: DROWSY | EAR: 0.087044 | MAR: 0.346352 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:27 | State: DROWSY | EAR: 0.0851516 | MAR: 0.359517 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:27 | State: DROWSY | EAR: 0.0718227 | MAR: 0.372591 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:27 | State: DROWSY | EAR: 0.0850609 | MAR: 0.338323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:28 | State: DROWSY | EAR: 0.0710933 | MAR: 0.365504 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:28 | State: DROWSY | EAR: 0.0693177 | MAR: 0.362551 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:28 | State: DROWSY | EAR: 0.0680098 | MAR: 0.375801 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:28 | State: DROWSY | EAR: 0.0690431 | MAR: 0.347359 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:28 | State: DROWSY | EAR: 0.0672785 | MAR: 0.356402 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:29 | State: DROWSY | EAR: 0.0619558 | MAR: 0.356774 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:29 | State: DROWSY | EAR: 0.0704398 | MAR: 0.352258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:29 | State: DROWSY | EAR: 0.0850626 | MAR: 0.361157 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:29 | State: DROWSY | EAR: 0.0737283 | MAR: 0.353243 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:30 | State: DROWSY | EAR: 0.101157 | MAR: 0.348811 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:30 | State: DROWSY | EAR: 0.105906 | MAR: 0.354138 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:30 | State: DROWSY | EAR: 0.0982506 | MAR: 0.355486 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:30 | State: DROWSY | EAR: 0.14484 | MAR: 0.356527 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:30 | State: DROWSY | EAR: 0.178033 | MAR: 0.359601 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:31 | State: DROWSY | EAR: 0.190914 | MAR: 0.351516 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:31 | State: DROWSY | EAR: 0.202212 | MAR: 0.365963 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:31 | State: DROWSY | EAR: 0.19321 | MAR: 0.356049 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:31 | State: DROWSY | EAR: 0.222782 | MAR: 0.362553 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:32 | State: DROWSY | EAR: 0.243676 | MAR: 0.368484 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:32 | State: DROWSY | EAR: 0.236705 | MAR: 0.353928 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:32 | State: DROWSY | EAR: 0.24883 | MAR: 0.354357 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:32 | State: DROWSY | EAR: 0.243404 | MAR: 0.363494 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:32 | State: DROWSY | EAR: 0.244974 | MAR: 0.353763 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:46 | State: DROWSY | EAR: 0.0479801 | MAR: 0.353745 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:46 | State: DROWSY | EAR: 0.0636864 | MAR: 0.3752 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:47 | State: DROWSY | EAR: 0.0661306 | MAR: 0.38323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:47 | State: DROWSY | EAR: 0.0873033 | MAR: 0.358981 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:47 | State: DROWSY | EAR: 0.0799663 | MAR: 0.378757 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:47 | State: DROWSY | EAR: 0.0641658 | MAR: 0.347836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:48 | State: DROWSY | EAR: 0.0781855 | MAR: 0.356886 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:48 | State: DROWSY | EAR: 0.0667248 | MAR: 0.378589 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:48 | State: DROWSY | EAR: 0.0710469 | MAR: 0.357044 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:48 | State: DROWSY | EAR: 0.0692728 | MAR: 0.371712 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:48 | State: DROWSY | EAR: 0.0780365 | MAR: 0.353588 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:49 | State: DROWSY | EAR: 0.0668226 | MAR: 0.36367 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:49 | State: DROWSY | EAR: 0.091337 | MAR: 0.376814 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:49 | State: DROWSY | EAR: 0.0928414 | MAR: 0.361071 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:49 | State: DROWSY | EAR: 0.0799634 | MAR: 0.361323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:49 | State: DROWSY | EAR: 0.0752803 | MAR: 0.353026 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:50 | State: DROWSY | EAR: 0.0744644 | MAR: 0.356836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:50 | State: DROWSY | EAR: 0.0824804 | MAR: 0.3492 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:50 | State: DROWSY | EAR: 0.077917 | MAR: 0.35081 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:50 | State: DROWSY | EAR: 0.0861179 | MAR: 0.360007 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:50 | State: DROWSY | EAR: 0.0717255 | MAR: 0.348611 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:51 | State: DROWSY | EAR: 0.0718794 | MAR: 0.35686 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:51 | State: DROWSY | EAR: 0.103588 | MAR: 0.368901 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:51 | State: DROWSY | EAR: 0.091764 | MAR: 0.363542 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:51 | State: DROWSY | EAR: 0.101322 | MAR: 0.363672 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:52 | State: DROWSY | EAR: 0.0873817 | MAR: 0.360652 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:52 | State: DROWSY | EAR: 0.0830815 | MAR: 0.35466 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:52 | State: DROWSY | EAR: 0.0989573 | MAR: 0.356961 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:52 | State: DROWSY | EAR: 0.0978812 | MAR: 0.368916 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:52 | State: DROWSY | EAR: 0.0978542 | MAR: 0.363298 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:53 | State: DROWSY | EAR: 0.102739 | MAR: 0.359869 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:53 | State: DROWSY | EAR: 0.0792266 | MAR: 0.373395 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:53 | State: DROWSY | EAR: 0.112735 | MAR: 0.365175 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:53 | State: DROWSY | EAR: 0.08587 | MAR: 0.371182 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:53 | State: DROWSY | EAR: 0.0917093 | MAR: 0.364925 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:54 | State: DROWSY | EAR: 0.0834247 | MAR: 0.362348 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:54 | State: DROWSY | EAR: 0.0846463 | MAR: 0.365241 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:54 | State: DROWSY | EAR: 0.090685 | MAR: 0.34926 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:54 | State: DROWSY | EAR: 0.110598 | MAR: 0.357169 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:55 | State: DROWSY | EAR: 0.103144 | MAR: 0.368544 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:55 | State: DROWSY | EAR: 0.092991 | MAR: 0.362098 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:55 | State: DROWSY | EAR: 0.0942567 | MAR: 0.357501 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:55 | State: DROWSY | EAR: 0.0921556 | MAR: 0.360719 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:55 | State: DROWSY | EAR: 0.101436 | MAR: 0.370852 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:56 | State: DROWSY | EAR: 0.0984228 | MAR: 0.392935 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:56 | State: DROWSY | EAR: 0.0964519 | MAR: 0.373347 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:56 | State: DROWSY | EAR: 0.0890842 | MAR: 0.383365 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:56 | State: DROWSY | EAR: 0.0704487 | MAR: 0.378113 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:56 | State: DROWSY | EAR: 0.0830919 | MAR: 0.372221 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:57 | State: DROWSY | EAR: 0.0759908 | MAR: 0.383511 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:57 | State: DROWSY | EAR: 0.0653404 | MAR: 0.358227 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:57 | State: DROWSY | EAR: 0.0794196 | MAR: 0.365258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:57 | State: DROWSY | EAR: 0.0735713 | MAR: 0.364939 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:57 | State: DROWSY | EAR: 0.0880961 | MAR: 0.376178 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:58 | State: DROWSY | EAR: 0.0923453 | MAR: 0.374827 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:58 | State: DROWSY | EAR: 0.0912982 | MAR: 0.37377 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:58 | State: DROWSY | EAR: 0.117194 | MAR: 0.382954 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:58 | State: DROWSY | EAR: 0.148392 | MAR: 0.373915 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:59 | State: DROWSY | EAR: 0.159526 | MAR: 0.378032 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:59 | State: DROWSY | EAR: 0.163426 | MAR: 0.367973 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:59 | State: DROWSY | EAR: 0.214027 | MAR: 0.373177 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:59 | State: DROWSY | EAR: 0.232056 | MAR: 0.380329 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:22:59 | State: DROWSY | EAR: 0.237902 | MAR: 0.348794 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:00 | State: DROWSY | EAR: 0.236361 | MAR: 0.391794 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:00 | State: DROWSY | EAR: 0.246565 | MAR: 0.357187 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:16 | State: YAWNING | EAR: 0.263914 | MAR: 0.708269 | Message: Driver is yawning
+2025-08-07 03:23:18 | State: YAWNING | EAR: 0.0826633 | MAR: 0.743612 | Message: Driver is yawning
+2025-08-07 03:23:18 | State: YAWNING | EAR: 0.0927945 | MAR: 0.707294 | Message: Driver is yawning
+2025-08-07 03:23:18 | State: YAWNING | EAR: 0.110368 | MAR: 0.799435 | Message: Driver is yawning
+2025-08-07 03:23:19 | State: YAWNING | EAR: 0.14007 | MAR: 0.931302 | Message: Driver is yawning
+2025-08-07 03:23:19 | State: YAWNING | EAR: 0.169894 | MAR: 0.746191 | Message: Driver is yawning
+2025-08-07 03:23:19 | State: YAWNING | EAR: 0.231596 | MAR: 0.761438 | Message: Driver is yawning
+2025-08-07 03:23:19 | State: DROWSY | EAR: 0.214244 | MAR: 0.690158 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:19 | State: DROWSY_YAWNING | EAR: 0.20131 | MAR: 0.723095 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:20 | State: DROWSY_YAWNING | EAR: 0.225255 | MAR: 0.711389 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:20 | State: DROWSY_YAWNING | EAR: 0.240912 | MAR: 0.715705 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:20 | State: DROWSY_YAWNING | EAR: 0.242673 | MAR: 0.716977 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:20 | State: DROWSY | EAR: 0.231254 | MAR: 0.64881 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:21 | State: DROWSY | EAR: 0.240943 | MAR: 0.669545 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:21 | State: DROWSY | EAR: 0.236394 | MAR: 0.640334 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:21 | State: DROWSY | EAR: 0.236067 | MAR: 0.609668 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:21 | State: DROWSY_YAWNING | EAR: 0.237353 | MAR: 0.796122 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:21 | State: DROWSY | EAR: 0.229827 | MAR: 0.695881 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:22 | State: DROWSY | EAR: 0.232511 | MAR: 0.69183 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:22 | State: YAWNING | EAR: 0.256799 | MAR: 0.743356 | Message: Driver is yawning
+2025-08-07 03:23:22 | State: YAWNING | EAR: 0.218677 | MAR: 0.815664 | Message: Driver is yawning
+2025-08-07 03:23:22 | State: YAWNING | EAR: 0.242581 | MAR: 0.833236 | Message: Driver is yawning
+2025-08-07 03:23:23 | State: YAWNING | EAR: 0.220131 | MAR: 0.895452 | Message: Driver is yawning
+2025-08-07 03:23:23 | State: YAWNING | EAR: 0.234916 | MAR: 0.919182 | Message: Driver is yawning
+2025-08-07 03:23:23 | State: YAWNING | EAR: 0.23856 | MAR: 0.942445 | Message: Driver is yawning
+2025-08-07 03:23:23 | State: YAWNING | EAR: 0.219085 | MAR: 0.97531 | Message: Driver is yawning
+2025-08-07 03:23:23 | State: YAWNING | EAR: 0.238465 | MAR: 0.897805 | Message: Driver is yawning
+2025-08-07 03:23:24 | State: YAWNING | EAR: 0.22187 | MAR: 1.01821 | Message: Driver is yawning
+2025-08-07 03:23:24 | State: YAWNING | EAR: 0.223114 | MAR: 0.886009 | Message: Driver is yawning
+2025-08-07 03:23:24 | State: YAWNING | EAR: 0.235227 | MAR: 0.74583 | Message: Driver is yawning
+2025-08-07 03:23:24 | State: DROWSY_YAWNING | EAR: 0.226855 | MAR: 0.824272 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:24 | State: DROWSY_YAWNING | EAR: 0.162652 | MAR: 0.802063 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:25 | State: DROWSY_YAWNING | EAR: 0.172476 | MAR: 0.820032 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:25 | State: DROWSY | EAR: 0.19643 | MAR: 0.678393 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:25 | State: DROWSY_YAWNING | EAR: 0.14076 | MAR: 0.811967 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:25 | State: DROWSY_YAWNING | EAR: 0.134272 | MAR: 0.755862 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:25 | State: DROWSY_YAWNING | EAR: 0.13563 | MAR: 0.792223 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:26 | State: DROWSY_YAWNING | EAR: 0.152 | MAR: 1.06372 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:26 | State: DROWSY_YAWNING | EAR: 0.117292 | MAR: 0.892103 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:26 | State: DROWSY_YAWNING | EAR: 0.139225 | MAR: 0.701901 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:26 | State: DROWSY_YAWNING | EAR: 0.130389 | MAR: 0.714829 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:27 | State: DROWSY | EAR: 0.138077 | MAR: 0.672281 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:27 | State: DROWSY_YAWNING | EAR: 0.0688061 | MAR: 0.764631 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:27 | State: DROWSY_YAWNING | EAR: 0.126786 | MAR: 0.805349 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:27 | State: DROWSY | EAR: 0.133442 | MAR: 0.616836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:27 | State: DROWSY | EAR: 0.0737493 | MAR: 0.695609 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:28 | State: DROWSY | EAR: 0.13333 | MAR: 0.406926 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:28 | State: DROWSY | EAR: 0.0986895 | MAR: 0.448806 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:28 | State: DROWSY | EAR: 0.0889031 | MAR: 0.588067 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:28 | State: DROWSY | EAR: 0.0814254 | MAR: 0.550152 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:28 | State: DROWSY | EAR: 0.068366 | MAR: 0.491151 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:29 | State: DROWSY | EAR: 0.0639061 | MAR: 0.447622 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:29 | State: DROWSY | EAR: 0.0826336 | MAR: 0.470273 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:29 | State: DROWSY | EAR: 0.0519446 | MAR: 0.444781 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:29 | State: DROWSY | EAR: 0.113645 | MAR: 0.510157 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:29 | State: DROWSY | EAR: 0.0814038 | MAR: 0.467084 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:30 | State: DROWSY | EAR: 0.0965719 | MAR: 0.450659 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:30 | State: DROWSY | EAR: 0.110281 | MAR: 0.435663 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:30 | State: DROWSY | EAR: 0.103353 | MAR: 0.50134 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:30 | State: DROWSY | EAR: 0.11269 | MAR: 0.478584 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:31 | State: DROWSY | EAR: 0.106481 | MAR: 0.41338 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:31 | State: DROWSY | EAR: 0.093982 | MAR: 0.397135 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:31 | State: DROWSY | EAR: 0.100263 | MAR: 0.403022 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:31 | State: DROWSY | EAR: 0.0793666 | MAR: 0.376169 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:31 | State: DROWSY | EAR: 0.0935952 | MAR: 0.398202 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:32 | State: DROWSY | EAR: 0.095112 | MAR: 0.372967 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:32 | State: DROWSY | EAR: 0.0810466 | MAR: 0.360769 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:32 | State: DROWSY | EAR: 0.117863 | MAR: 0.392853 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:32 | State: DROWSY | EAR: 0.100616 | MAR: 0.37442 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:32 | State: DROWSY | EAR: 0.082612 | MAR: 0.354117 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:33 | State: DROWSY | EAR: 0.0738857 | MAR: 0.357258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:33 | State: DROWSY | EAR: 0.0898834 | MAR: 0.360772 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:33 | State: DROWSY | EAR: 0.102465 | MAR: 0.356477 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:33 | State: DROWSY | EAR: 0.111056 | MAR: 0.381247 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:34 | State: DROWSY | EAR: 0.137699 | MAR: 0.349497 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:34 | State: DROWSY | EAR: 0.163922 | MAR: 0.362833 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:34 | State: DROWSY | EAR: 0.201241 | MAR: 0.377751 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:34 | State: DROWSY | EAR: 0.219542 | MAR: 0.372283 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:34 | State: DROWSY | EAR: 0.220767 | MAR: 0.366124 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:35 | State: DROWSY | EAR: 0.221289 | MAR: 0.353215 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:35 | State: DROWSY | EAR: 0.231588 | MAR: 0.360795 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:23:35 | State: DROWSY | EAR: 0.236268 | MAR: 0.362891 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:10 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:11 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:13 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:13 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:14 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:14 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:14 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:14 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:14 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:15 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:15 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:24:18 | State: DROWSY | EAR: 0.0875015 | MAR: 0.347074 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:18 | State: DROWSY | EAR: 0.0664795 | MAR: 0.358697 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:18 | State: DROWSY | EAR: 0.0868124 | MAR: 0.35662 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:18 | State: DROWSY | EAR: 0.0966158 | MAR: 0.360022 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:19 | State: DROWSY | EAR: 0.0678182 | MAR: 0.351356 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:19 | State: DROWSY | EAR: 0.117744 | MAR: 0.344528 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:19 | State: DROWSY | EAR: 0.105385 | MAR: 0.352844 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:19 | State: DROWSY | EAR: 0.0796937 | MAR: 0.366183 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:19 | State: DROWSY | EAR: 0.0719685 | MAR: 0.364611 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:20 | State: DROWSY | EAR: 0.0973931 | MAR: 0.358694 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:20 | State: DROWSY | EAR: 0.0887466 | MAR: 0.355144 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:20 | State: DROWSY | EAR: 0.106762 | MAR: 0.338793 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:20 | State: DROWSY | EAR: 0.0917211 | MAR: 0.3439 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:21 | State: DROWSY | EAR: 0.0858628 | MAR: 0.361773 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:21 | State: DROWSY | EAR: 0.0972001 | MAR: 0.338641 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:21 | State: DROWSY | EAR: 0.0903886 | MAR: 0.364094 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:21 | State: DROWSY | EAR: 0.0908929 | MAR: 0.363371 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:21 | State: DROWSY | EAR: 0.0982606 | MAR: 0.348539 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:22 | State: DROWSY | EAR: 0.0623786 | MAR: 0.359762 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:22 | State: DROWSY | EAR: 0.0877973 | MAR: 0.359937 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:22 | State: DROWSY | EAR: 0.0960242 | MAR: 0.371243 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:22 | State: DROWSY | EAR: 0.0966359 | MAR: 0.359 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:23 | State: DROWSY | EAR: 0.107363 | MAR: 0.352083 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:23 | State: DROWSY | EAR: 0.123007 | MAR: 0.357311 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:23 | State: DROWSY | EAR: 0.104284 | MAR: 0.372179 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:23 | State: DROWSY | EAR: 0.0942353 | MAR: 0.350437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:23 | State: DROWSY | EAR: 0.0890705 | MAR: 0.36071 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:24 | State: DROWSY | EAR: 0.0876603 | MAR: 0.358152 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:24 | State: DROWSY | EAR: 0.0939689 | MAR: 0.372875 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:24 | State: DROWSY | EAR: 0.103012 | MAR: 0.357985 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:24 | State: DROWSY | EAR: 0.095802 | MAR: 0.374033 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:24 | State: DROWSY | EAR: 0.0812965 | MAR: 0.355666 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:25 | State: DROWSY | EAR: 0.088913 | MAR: 0.368315 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:25 | State: DROWSY | EAR: 0.08729 | MAR: 0.370725 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:25 | State: DROWSY | EAR: 0.0720234 | MAR: 0.362817 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:25 | State: DROWSY | EAR: 0.0628531 | MAR: 0.351225 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:26 | State: DROWSY | EAR: 0.073816 | MAR: 0.366975 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:26 | State: DROWSY | EAR: 0.0660259 | MAR: 0.364907 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:26 | State: DROWSY | EAR: 0.105546 | MAR: 0.354363 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:26 | State: DROWSY | EAR: 0.0718444 | MAR: 0.360829 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:26 | State: DROWSY | EAR: 0.10728 | MAR: 0.359023 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:27 | State: DROWSY | EAR: 0.0954096 | MAR: 0.358351 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:27 | State: DROWSY | EAR: 0.0989235 | MAR: 0.363317 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:27 | State: DROWSY | EAR: 0.10636 | MAR: 0.358189 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:28 | State: DROWSY | EAR: 0.0994597 | MAR: 0.373143 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:28 | State: DROWSY | EAR: 0.0955105 | MAR: 0.37829 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:28 | State: DROWSY | EAR: 0.0790538 | MAR: 0.389333 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:28 | State: DROWSY | EAR: 0.0811895 | MAR: 0.368746 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:28 | State: DROWSY | EAR: 0.108334 | MAR: 0.356075 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:24:29 | State: DROWSY | EAR: 0.149423 | MAR: 0.392586 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_%02Hh%02Mm%02Ss.jpg
+2025-08-07 03:33:39 | State: DROWSY | EAR: 0.21207 | MAR: 0.355906 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m39s_002.jpg
+2025-08-07 03:33:39 | State: DROWSY | EAR: 0.23129 | MAR: 0.347331 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m39s_792.jpg
+2025-08-07 03:33:56 | State: DROWSY | EAR: 0.0873918 | MAR: 0.356961 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m56s_129.jpg
+2025-08-07 03:33:56 | State: DROWSY | EAR: 0.0930458 | MAR: 0.357321 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m56s_375.jpg
+2025-08-07 03:33:56 | State: DROWSY | EAR: 0.0955987 | MAR: 0.364174 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m56s_602.jpg
+2025-08-07 03:33:56 | State: DROWSY | EAR: 0.0979071 | MAR: 0.363471 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m56s_915.jpg
+2025-08-07 03:33:57 | State: DROWSY | EAR: 0.118972 | MAR: 0.380682 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m57s_172.jpg
+2025-08-07 03:33:57 | State: DROWSY | EAR: 0.0929822 | MAR: 0.365973 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m57s_397.jpg
+2025-08-07 03:33:57 | State: DROWSY | EAR: 0.106523 | MAR: 0.372725 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m57s_697.jpg
+2025-08-07 03:33:58 | State: DROWSY | EAR: 0.0835137 | MAR: 0.371985 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m58s_003.jpg
+2025-08-07 03:33:58 | State: DROWSY | EAR: 0.078436 | MAR: 0.380209 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m58s_241.jpg
+2025-08-07 03:33:58 | State: DROWSY | EAR: 0.0906152 | MAR: 0.362616 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m58s_447.jpg
+2025-08-07 03:33:58 | State: DROWSY | EAR: 0.0704455 | MAR: 0.374888 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m58s_658.jpg
+2025-08-07 03:33:58 | State: DROWSY | EAR: 0.0954702 | MAR: 0.368124 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m58s_937.jpg
+2025-08-07 03:33:59 | State: DROWSY | EAR: 0.07226 | MAR: 0.375436 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m59s_203.jpg
+2025-08-07 03:33:59 | State: DROWSY | EAR: 0.0681156 | MAR: 0.38016 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m59s_475.jpg
+2025-08-07 03:33:59 | State: DROWSY | EAR: 0.0748001 | MAR: 0.36205 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m59s_701.jpg
+2025-08-07 03:33:59 | State: DROWSY | EAR: 0.0865926 | MAR: 0.373447 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h33m59s_936.jpg
+2025-08-07 03:34:00 | State: DROWSY | EAR: 0.0775571 | MAR: 0.347211 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m00s_186.jpg
+2025-08-07 03:34:00 | State: DROWSY | EAR: 0.0735394 | MAR: 0.359066 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m00s_466.jpg
+2025-08-07 03:34:00 | State: DROWSY | EAR: 0.0871186 | MAR: 0.352448 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m00s_692.jpg
+2025-08-07 03:34:00 | State: DROWSY | EAR: 0.0865021 | MAR: 0.361407 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m00s_906.jpg
+2025-08-07 03:34:01 | State: DROWSY | EAR: 0.0972385 | MAR: 0.372541 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m01s_272.jpg
+2025-08-07 03:34:01 | State: DROWSY | EAR: 0.0711534 | MAR: 0.38241 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m01s_507.jpg
+2025-08-07 03:34:01 | State: DROWSY | EAR: 0.0702227 | MAR: 0.357437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m01s_814.jpg
+2025-08-07 03:34:02 | State: DROWSY | EAR: 0.0978421 | MAR: 0.374248 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m02s_069.jpg
+2025-08-07 03:34:02 | State: DROWSY | EAR: 0.0709408 | MAR: 0.383692 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m02s_296.jpg
+2025-08-07 03:34:02 | State: DROWSY | EAR: 0.0824739 | MAR: 0.374075 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m02s_534.jpg
+2025-08-07 03:34:02 | State: DROWSY | EAR: 0.0644484 | MAR: 0.363893 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m02s_854.jpg
+2025-08-07 03:34:03 | State: DROWSY | EAR: 0.0759723 | MAR: 0.385437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m03s_090.jpg
+2025-08-07 03:34:03 | State: DROWSY | EAR: 0.0687224 | MAR: 0.366013 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m03s_335.jpg
+2025-08-07 03:34:03 | State: DROWSY | EAR: 0.0859725 | MAR: 0.374393 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m03s_612.jpg
+2025-08-07 03:34:03 | State: DROWSY | EAR: 0.0732836 | MAR: 0.381648 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m03s_843.jpg
+2025-08-07 03:34:04 | State: DROWSY | EAR: 0.0639375 | MAR: 0.36824 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m04s_108.jpg
+2025-08-07 03:34:04 | State: DROWSY | EAR: 0.0762763 | MAR: 0.363489 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m04s_381.jpg
+2025-08-07 03:34:04 | State: DROWSY | EAR: 0.0702009 | MAR: 0.358151 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m04s_630.jpg
+2025-08-07 03:34:04 | State: DROWSY | EAR: 0.087044 | MAR: 0.346352 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m04s_941.jpg
+2025-08-07 03:34:05 | State: DROWSY | EAR: 0.0851516 | MAR: 0.359517 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m05s_216.jpg
+2025-08-07 03:34:05 | State: DROWSY | EAR: 0.0718227 | MAR: 0.372591 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m05s_438.jpg
+2025-08-07 03:34:05 | State: DROWSY | EAR: 0.0850609 | MAR: 0.338323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m05s_765.jpg
+2025-08-07 03:34:06 | State: DROWSY | EAR: 0.0710933 | MAR: 0.365504 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m06s_027.jpg
+2025-08-07 03:34:06 | State: DROWSY | EAR: 0.0693177 | MAR: 0.362551 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m06s_391.jpg
+2025-08-07 03:34:06 | State: DROWSY | EAR: 0.0680098 | MAR: 0.375801 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m06s_734.jpg
+2025-08-07 03:34:07 | State: DROWSY | EAR: 0.0690431 | MAR: 0.347359 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m07s_101.jpg
+2025-08-07 03:34:07 | State: DROWSY | EAR: 0.0672785 | MAR: 0.356402 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m07s_375.jpg
+2025-08-07 03:34:07 | State: DROWSY | EAR: 0.0619558 | MAR: 0.356774 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m07s_671.jpg
+2025-08-07 03:34:07 | State: DROWSY | EAR: 0.0704398 | MAR: 0.352258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m07s_889.jpg
+2025-08-07 03:34:08 | State: DROWSY | EAR: 0.0850626 | MAR: 0.361157 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m08s_248.jpg
+2025-08-07 03:34:08 | State: DROWSY | EAR: 0.0737283 | MAR: 0.353243 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m08s_599.jpg
+2025-08-07 03:34:08 | State: DROWSY | EAR: 0.101157 | MAR: 0.348811 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m08s_884.jpg
+2025-08-07 03:34:09 | State: DROWSY | EAR: 0.105906 | MAR: 0.354138 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m09s_128.jpg
+2025-08-07 03:34:09 | State: DROWSY | EAR: 0.0982506 | MAR: 0.355486 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m09s_432.jpg
+2025-08-07 03:34:09 | State: DROWSY | EAR: 0.14484 | MAR: 0.356527 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m09s_641.jpg
+2025-08-07 03:34:10 | State: DROWSY | EAR: 0.178033 | MAR: 0.359601 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m09s_966.jpg
+2025-08-07 03:34:10 | State: DROWSY | EAR: 0.190914 | MAR: 0.351516 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m10s_277.jpg
+2025-08-07 03:34:10 | State: DROWSY | EAR: 0.202212 | MAR: 0.365963 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m10s_512.jpg
+2025-08-07 03:34:10 | State: DROWSY | EAR: 0.19321 | MAR: 0.356049 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m10s_757.jpg
+2025-08-07 03:34:11 | State: DROWSY | EAR: 0.222782 | MAR: 0.362553 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m11s_030.jpg
+2025-08-07 03:34:11 | State: DROWSY | EAR: 0.243676 | MAR: 0.368484 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m11s_325.jpg
+2025-08-07 03:34:11 | State: DROWSY | EAR: 0.236705 | MAR: 0.353928 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m11s_564.jpg
+2025-08-07 03:34:11 | State: DROWSY | EAR: 0.24883 | MAR: 0.354357 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m11s_854.jpg
+2025-08-07 03:34:12 | State: DROWSY | EAR: 0.243404 | MAR: 0.363494 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m12s_109.jpg
+2025-08-07 03:34:12 | State: DROWSY | EAR: 0.244974 | MAR: 0.353763 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m12s_326.jpg
+2025-08-07 03:34:26 | State: DROWSY | EAR: 0.0636864 | MAR: 0.3752 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m26s_556.jpg
+2025-08-07 03:34:26 | State: DROWSY | EAR: 0.0661306 | MAR: 0.38323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m26s_760.jpg
+2025-08-07 03:34:26 | State: DROWSY | EAR: 0.0873033 | MAR: 0.358981 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m26s_976.jpg
+2025-08-07 03:34:27 | State: DROWSY | EAR: 0.0799663 | MAR: 0.378757 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m27s_185.jpg
+2025-08-07 03:34:27 | State: DROWSY | EAR: 0.0641658 | MAR: 0.347836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m27s_389.jpg
+2025-08-07 03:34:27 | State: DROWSY | EAR: 0.0781855 | MAR: 0.356886 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m27s_597.jpg
+2025-08-07 03:34:27 | State: DROWSY | EAR: 0.0667248 | MAR: 0.378589 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m27s_804.jpg
+2025-08-07 03:34:28 | State: DROWSY | EAR: 0.0710469 | MAR: 0.357044 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m28s_039.jpg
+2025-08-07 03:34:28 | State: DROWSY | EAR: 0.0692728 | MAR: 0.371712 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m28s_259.jpg
+2025-08-07 03:34:28 | State: DROWSY | EAR: 0.0780365 | MAR: 0.353588 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m28s_467.jpg
+2025-08-07 03:34:28 | State: DROWSY | EAR: 0.0668226 | MAR: 0.36367 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m28s_683.jpg
+2025-08-07 03:34:28 | State: DROWSY | EAR: 0.091337 | MAR: 0.376814 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m28s_887.jpg
+2025-08-07 03:34:29 | State: DROWSY | EAR: 0.0928414 | MAR: 0.361071 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m29s_132.jpg
+2025-08-07 03:34:29 | State: DROWSY | EAR: 0.0799634 | MAR: 0.361323 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m29s_367.jpg
+2025-08-07 03:34:29 | State: DROWSY | EAR: 0.0752803 | MAR: 0.353026 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m29s_570.jpg
+2025-08-07 03:34:29 | State: DROWSY | EAR: 0.0744644 | MAR: 0.356836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m29s_842.jpg
+2025-08-07 03:34:30 | State: DROWSY | EAR: 0.0824804 | MAR: 0.3492 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m30s_080.jpg
+2025-08-07 03:34:30 | State: DROWSY | EAR: 0.077917 | MAR: 0.35081 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m30s_341.jpg
+2025-08-07 03:34:30 | State: DROWSY | EAR: 0.0861179 | MAR: 0.360007 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m30s_555.jpg
+2025-08-07 03:34:30 | State: DROWSY | EAR: 0.0717255 | MAR: 0.348611 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m30s_775.jpg
+2025-08-07 03:34:31 | State: DROWSY | EAR: 0.0718794 | MAR: 0.35686 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m31s_044.jpg
+2025-08-07 03:34:31 | State: DROWSY | EAR: 0.103588 | MAR: 0.368901 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m31s_289.jpg
+2025-08-07 03:34:31 | State: DROWSY | EAR: 0.091764 | MAR: 0.363542 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m31s_634.jpg
+2025-08-07 03:34:31 | State: DROWSY | EAR: 0.101322 | MAR: 0.363672 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m31s_852.jpg
+2025-08-07 03:34:32 | State: DROWSY | EAR: 0.0873817 | MAR: 0.360652 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m32s_068.jpg
+2025-08-07 03:34:32 | State: DROWSY | EAR: 0.0830815 | MAR: 0.35466 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m32s_360.jpg
+2025-08-07 03:34:32 | State: DROWSY | EAR: 0.0989573 | MAR: 0.356961 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m32s_600.jpg
+2025-08-07 03:34:32 | State: DROWSY | EAR: 0.0978812 | MAR: 0.368916 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m32s_884.jpg
+2025-08-07 03:34:33 | State: DROWSY | EAR: 0.0978542 | MAR: 0.363298 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m33s_128.jpg
+2025-08-07 03:34:33 | State: DROWSY | EAR: 0.102739 | MAR: 0.359869 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m33s_338.jpg
+2025-08-07 03:34:33 | State: DROWSY | EAR: 0.0792266 | MAR: 0.373395 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m33s_570.jpg
+2025-08-07 03:34:33 | State: DROWSY | EAR: 0.112735 | MAR: 0.365175 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m33s_802.jpg
+2025-08-07 03:34:34 | State: DROWSY | EAR: 0.08587 | MAR: 0.371182 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m34s_044.jpg
+2025-08-07 03:34:34 | State: DROWSY | EAR: 0.0917093 | MAR: 0.364925 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m34s_252.jpg
+2025-08-07 03:34:34 | State: DROWSY | EAR: 0.0834247 | MAR: 0.362348 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m34s_466.jpg
+2025-08-07 03:34:34 | State: DROWSY | EAR: 0.0846463 | MAR: 0.365241 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m34s_782.jpg
+2025-08-07 03:34:35 | State: DROWSY | EAR: 0.090685 | MAR: 0.34926 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m35s_000.jpg
+2025-08-07 03:34:35 | State: DROWSY | EAR: 0.110598 | MAR: 0.357169 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m35s_266.jpg
+2025-08-07 03:34:35 | State: DROWSY | EAR: 0.103144 | MAR: 0.368544 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m35s_598.jpg
+2025-08-07 03:34:35 | State: DROWSY | EAR: 0.092991 | MAR: 0.362098 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m35s_873.jpg
+2025-08-07 03:34:36 | State: DROWSY | EAR: 0.0942567 | MAR: 0.357501 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m36s_180.jpg
+2025-08-07 03:34:36 | State: DROWSY | EAR: 0.0921556 | MAR: 0.360719 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m36s_407.jpg
+2025-08-07 03:34:36 | State: DROWSY | EAR: 0.101436 | MAR: 0.370852 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m36s_654.jpg
+2025-08-07 03:34:36 | State: DROWSY | EAR: 0.0984228 | MAR: 0.392935 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m36s_855.jpg
+2025-08-07 03:34:37 | State: DROWSY | EAR: 0.0964519 | MAR: 0.373347 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m37s_057.jpg
+2025-08-07 03:34:37 | State: DROWSY | EAR: 0.0890842 | MAR: 0.383365 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m37s_293.jpg
+2025-08-07 03:34:37 | State: DROWSY | EAR: 0.0704487 | MAR: 0.378113 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m37s_582.jpg
+2025-08-07 03:34:37 | State: DROWSY | EAR: 0.0830919 | MAR: 0.372221 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m37s_811.jpg
+2025-08-07 03:34:38 | State: DROWSY | EAR: 0.0759908 | MAR: 0.383511 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m38s_103.jpg
+2025-08-07 03:34:38 | State: DROWSY | EAR: 0.0653404 | MAR: 0.358227 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m38s_368.jpg
+2025-08-07 03:34:38 | State: DROWSY | EAR: 0.0794196 | MAR: 0.365258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m38s_655.jpg
+2025-08-07 03:34:38 | State: DROWSY | EAR: 0.0735713 | MAR: 0.364939 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m38s_899.jpg
+2025-08-07 03:34:39 | State: DROWSY | EAR: 0.0880961 | MAR: 0.376178 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m39s_137.jpg
+2025-08-07 03:34:39 | State: DROWSY | EAR: 0.0923453 | MAR: 0.374827 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m39s_447.jpg
+2025-08-07 03:34:39 | State: DROWSY | EAR: 0.0912982 | MAR: 0.37377 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m39s_678.jpg
+2025-08-07 03:34:39 | State: DROWSY | EAR: 0.117194 | MAR: 0.382954 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m39s_953.jpg
+2025-08-07 03:34:40 | State: DROWSY | EAR: 0.148392 | MAR: 0.373915 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m40s_167.jpg
+2025-08-07 03:34:40 | State: DROWSY | EAR: 0.159526 | MAR: 0.378032 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m40s_381.jpg
+2025-08-07 03:34:40 | State: DROWSY | EAR: 0.163426 | MAR: 0.367973 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m40s_652.jpg
+2025-08-07 03:34:40 | State: DROWSY | EAR: 0.214027 | MAR: 0.373177 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m40s_871.jpg
+2025-08-07 03:34:41 | State: DROWSY | EAR: 0.232056 | MAR: 0.380329 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m41s_158.jpg
+2025-08-07 03:34:41 | State: DROWSY | EAR: 0.237902 | MAR: 0.348794 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m41s_448.jpg
+2025-08-07 03:34:41 | State: DROWSY | EAR: 0.236361 | MAR: 0.391794 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m41s_721.jpg
+2025-08-07 03:34:42 | State: DROWSY | EAR: 0.246565 | MAR: 0.357187 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h34m42s_091.jpg
+2025-08-07 03:34:58 | State: YAWNING | EAR: 0.263914 | MAR: 0.708269 | Message: Driver is yawning
+2025-08-07 03:35:00 | State: YAWNING | EAR: 0.0826633 | MAR: 0.743612 | Message: Driver is yawning
+2025-08-07 03:35:00 | State: YAWNING | EAR: 0.0927945 | MAR: 0.707294 | Message: Driver is yawning
+2025-08-07 03:35:00 | State: YAWNING | EAR: 0.110368 | MAR: 0.799435 | Message: Driver is yawning
+2025-08-07 03:35:01 | State: YAWNING | EAR: 0.14007 | MAR: 0.931302 | Message: Driver is yawning
+2025-08-07 03:35:01 | State: YAWNING | EAR: 0.169894 | MAR: 0.746191 | Message: Driver is yawning
+2025-08-07 03:35:01 | State: YAWNING | EAR: 0.231596 | MAR: 0.761438 | Message: Driver is yawning
+2025-08-07 03:35:01 | State: DROWSY | EAR: 0.214244 | MAR: 0.690158 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m01s_977.jpg
+2025-08-07 03:35:02 | State: DROWSY_YAWNING | EAR: 0.20131 | MAR: 0.723095 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m02s_221.jpg
+2025-08-07 03:35:02 | State: DROWSY_YAWNING | EAR: 0.225255 | MAR: 0.711389 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m02s_435.jpg
+2025-08-07 03:35:02 | State: DROWSY_YAWNING | EAR: 0.240912 | MAR: 0.715705 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m02s_664.jpg
+2025-08-07 03:35:02 | State: DROWSY_YAWNING | EAR: 0.242673 | MAR: 0.716977 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m02s_911.jpg
+2025-08-07 03:35:03 | State: DROWSY | EAR: 0.231254 | MAR: 0.64881 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m03s_163.jpg
+2025-08-07 03:35:03 | State: DROWSY | EAR: 0.240943 | MAR: 0.669545 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m03s_472.jpg
+2025-08-07 03:35:03 | State: DROWSY | EAR: 0.236394 | MAR: 0.640334 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m03s_698.jpg
+2025-08-07 03:35:03 | State: DROWSY | EAR: 0.236067 | MAR: 0.609668 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m03s_940.jpg
+2025-08-07 03:35:04 | State: DROWSY_YAWNING | EAR: 0.237353 | MAR: 0.796122 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m04s_214.jpg
+2025-08-07 03:35:04 | State: DROWSY | EAR: 0.229827 | MAR: 0.695881 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m04s_450.jpg
+2025-08-07 03:35:04 | State: DROWSY | EAR: 0.232511 | MAR: 0.69183 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m04s_732.jpg
+2025-08-07 03:35:04 | State: YAWNING | EAR: 0.256799 | MAR: 0.743356 | Message: Driver is yawning
+2025-08-07 03:35:05 | State: YAWNING | EAR: 0.218677 | MAR: 0.815664 | Message: Driver is yawning
+2025-08-07 03:35:05 | State: YAWNING | EAR: 0.242581 | MAR: 0.833236 | Message: Driver is yawning
+2025-08-07 03:35:05 | State: YAWNING | EAR: 0.220131 | MAR: 0.895452 | Message: Driver is yawning
+2025-08-07 03:35:06 | State: YAWNING | EAR: 0.234916 | MAR: 0.919182 | Message: Driver is yawning
+2025-08-07 03:35:06 | State: YAWNING | EAR: 0.23856 | MAR: 0.942445 | Message: Driver is yawning
+2025-08-07 03:35:06 | State: YAWNING | EAR: 0.219085 | MAR: 0.97531 | Message: Driver is yawning
+2025-08-07 03:35:06 | State: YAWNING | EAR: 0.238465 | MAR: 0.897805 | Message: Driver is yawning
+2025-08-07 03:35:07 | State: YAWNING | EAR: 0.22187 | MAR: 1.01821 | Message: Driver is yawning
+2025-08-07 03:35:07 | State: DROWSY_YAWNING | EAR: 0.223114 | MAR: 0.886009 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m07s_278.jpg
+2025-08-07 03:35:07 | State: DROWSY_YAWNING | EAR: 0.235227 | MAR: 0.74583 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m07s_486.jpg
+2025-08-07 03:35:07 | State: DROWSY_YAWNING | EAR: 0.226855 | MAR: 0.824272 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m07s_711.jpg
+2025-08-07 03:35:07 | State: DROWSY_YAWNING | EAR: 0.162652 | MAR: 0.802063 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m07s_961.jpg
+2025-08-07 03:35:08 | State: DROWSY_YAWNING | EAR: 0.172476 | MAR: 0.820032 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m08s_212.jpg
+2025-08-07 03:35:08 | State: DROWSY | EAR: 0.19643 | MAR: 0.678393 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m08s_470.jpg
+2025-08-07 03:35:08 | State: DROWSY_YAWNING | EAR: 0.14076 | MAR: 0.811967 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m08s_789.jpg
+2025-08-07 03:35:09 | State: DROWSY_YAWNING | EAR: 0.134272 | MAR: 0.755862 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m09s_020.jpg
+2025-08-07 03:35:09 | State: DROWSY_YAWNING | EAR: 0.13563 | MAR: 0.792223 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m09s_263.jpg
+2025-08-07 03:35:09 | State: DROWSY_YAWNING | EAR: 0.152 | MAR: 1.06372 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m09s_577.jpg
+2025-08-07 03:35:09 | State: DROWSY_YAWNING | EAR: 0.117292 | MAR: 0.892103 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m09s_798.jpg
+2025-08-07 03:35:10 | State: DROWSY_YAWNING | EAR: 0.139225 | MAR: 0.701901 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m10s_078.jpg
+2025-08-07 03:35:10 | State: DROWSY_YAWNING | EAR: 0.130389 | MAR: 0.714829 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m10s_399.jpg
+2025-08-07 03:35:10 | State: DROWSY | EAR: 0.138077 | MAR: 0.672281 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m10s_617.jpg
+2025-08-07 03:35:10 | State: DROWSY_YAWNING | EAR: 0.0688061 | MAR: 0.764631 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m10s_908.jpg
+2025-08-07 03:35:11 | State: DROWSY_YAWNING | EAR: 0.126786 | MAR: 0.805349 | Message: Driver is drowsy and yawning - HIGH RISK | Image: snapshots/drowsy_detected_Aug07_2025_03h35m11s_181.jpg
+2025-08-07 03:35:11 | State: DROWSY | EAR: 0.133442 | MAR: 0.616836 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m11s_459.jpg
+2025-08-07 03:35:11 | State: DROWSY | EAR: 0.0737493 | MAR: 0.695609 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m11s_700.jpg
+2025-08-07 03:35:11 | State: DROWSY | EAR: 0.13333 | MAR: 0.406926 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m11s_953.jpg
+2025-08-07 03:35:12 | State: DROWSY | EAR: 0.0986895 | MAR: 0.448806 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m12s_177.jpg
+2025-08-07 03:35:12 | State: DROWSY | EAR: 0.0889031 | MAR: 0.588067 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m12s_408.jpg
+2025-08-07 03:35:12 | State: DROWSY | EAR: 0.0814254 | MAR: 0.550152 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m12s_628.jpg
+2025-08-07 03:35:12 | State: DROWSY | EAR: 0.068366 | MAR: 0.491151 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m12s_858.jpg
+2025-08-07 03:35:13 | State: DROWSY | EAR: 0.0639061 | MAR: 0.447622 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m13s_086.jpg
+2025-08-07 03:35:13 | State: DROWSY | EAR: 0.0826336 | MAR: 0.470273 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m13s_336.jpg
+2025-08-07 03:35:13 | State: DROWSY | EAR: 0.0519446 | MAR: 0.444781 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m13s_644.jpg
+2025-08-07 03:35:13 | State: DROWSY | EAR: 0.113645 | MAR: 0.510157 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m13s_896.jpg
+2025-08-07 03:35:14 | State: DROWSY | EAR: 0.0814038 | MAR: 0.467084 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m14s_172.jpg
+2025-08-07 03:35:14 | State: DROWSY | EAR: 0.0965719 | MAR: 0.450659 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m14s_415.jpg
+2025-08-07 03:35:14 | State: DROWSY | EAR: 0.110281 | MAR: 0.435663 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m14s_683.jpg
+2025-08-07 03:35:14 | State: DROWSY | EAR: 0.103353 | MAR: 0.50134 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m14s_919.jpg
+2025-08-07 03:35:15 | State: DROWSY | EAR: 0.11269 | MAR: 0.478584 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m15s_146.jpg
+2025-08-07 03:35:15 | State: DROWSY | EAR: 0.106481 | MAR: 0.41338 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m15s_392.jpg
+2025-08-07 03:35:15 | State: DROWSY | EAR: 0.093982 | MAR: 0.397135 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m15s_625.jpg
+2025-08-07 03:35:15 | State: DROWSY | EAR: 0.100263 | MAR: 0.403022 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m15s_961.jpg
+2025-08-07 03:35:16 | State: DROWSY | EAR: 0.0793666 | MAR: 0.376169 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m16s_171.jpg
+2025-08-07 03:35:16 | State: DROWSY | EAR: 0.0935952 | MAR: 0.398202 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m16s_426.jpg
+2025-08-07 03:35:16 | State: DROWSY | EAR: 0.095112 | MAR: 0.372967 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m16s_723.jpg
+2025-08-07 03:35:16 | State: DROWSY | EAR: 0.0810466 | MAR: 0.360769 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m16s_957.jpg
+2025-08-07 03:35:17 | State: DROWSY | EAR: 0.117863 | MAR: 0.392853 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m17s_206.jpg
+2025-08-07 03:35:17 | State: DROWSY | EAR: 0.100616 | MAR: 0.37442 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m17s_475.jpg
+2025-08-07 03:35:17 | State: DROWSY | EAR: 0.082612 | MAR: 0.354117 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m17s_715.jpg
+2025-08-07 03:35:17 | State: DROWSY | EAR: 0.0738857 | MAR: 0.357258 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m17s_975.jpg
+2025-08-07 03:35:18 | State: DROWSY | EAR: 0.0898834 | MAR: 0.360772 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m18s_189.jpg
+2025-08-07 03:35:18 | State: DROWSY | EAR: 0.102465 | MAR: 0.356477 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m18s_412.jpg
+2025-08-07 03:35:18 | State: DROWSY | EAR: 0.111056 | MAR: 0.381247 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m18s_652.jpg
+2025-08-07 03:35:18 | State: DROWSY | EAR: 0.137699 | MAR: 0.349497 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m18s_903.jpg
+2025-08-07 03:35:19 | State: DROWSY | EAR: 0.163922 | MAR: 0.362833 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m19s_181.jpg
+2025-08-07 03:35:19 | State: DROWSY | EAR: 0.201241 | MAR: 0.377751 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m19s_418.jpg
+2025-08-07 03:35:19 | State: DROWSY | EAR: 0.219542 | MAR: 0.372283 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m19s_643.jpg
+2025-08-07 03:35:19 | State: DROWSY | EAR: 0.220767 | MAR: 0.366124 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m19s_841.jpg
+2025-08-07 03:35:20 | State: DROWSY | EAR: 0.221289 | MAR: 0.353215 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m20s_038.jpg
+2025-08-07 03:35:20 | State: DROWSY | EAR: 0.231588 | MAR: 0.360795 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m20s_236.jpg
+2025-08-07 03:35:20 | State: DROWSY | EAR: 0.236268 | MAR: 0.362891 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h35m20s_452.jpg
+2025-08-07 03:35:56 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:56 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:56 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:56 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:57 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:57 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:57 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:58 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:59 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:59 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:59 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:59 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:35:59 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:36:00 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:36:00 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:36:00 | State: NO_FACE | EAR: 0 | MAR: 0 | Message: No face detected
+2025-08-07 03:36:03 | State: DROWSY | EAR: 0.0664795 | MAR: 0.358697 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m03s_306.jpg
+2025-08-07 03:36:03 | State: DROWSY | EAR: 0.0868124 | MAR: 0.35662 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m03s_616.jpg
+2025-08-07 03:36:03 | State: DROWSY | EAR: 0.0966158 | MAR: 0.360022 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m03s_847.jpg
+2025-08-07 03:36:04 | State: DROWSY | EAR: 0.0678182 | MAR: 0.351356 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m04s_076.jpg
+2025-08-07 03:36:04 | State: DROWSY | EAR: 0.117744 | MAR: 0.344528 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m04s_335.jpg
+2025-08-07 03:36:04 | State: DROWSY | EAR: 0.105385 | MAR: 0.352844 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m04s_555.jpg
+2025-08-07 03:36:04 | State: DROWSY | EAR: 0.0796937 | MAR: 0.366183 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m04s_794.jpg
+2025-08-07 03:36:05 | State: DROWSY | EAR: 0.0719685 | MAR: 0.364611 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m05s_004.jpg
+2025-08-07 03:36:05 | State: DROWSY | EAR: 0.0973931 | MAR: 0.358694 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m05s_225.jpg
+2025-08-07 03:36:05 | State: DROWSY | EAR: 0.0887466 | MAR: 0.355144 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m05s_501.jpg
+2025-08-07 03:36:05 | State: DROWSY | EAR: 0.106762 | MAR: 0.338793 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m05s_755.jpg
+2025-08-07 03:36:06 | State: DROWSY | EAR: 0.0917211 | MAR: 0.3439 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m05s_998.jpg
+2025-08-07 03:36:06 | State: DROWSY | EAR: 0.0858628 | MAR: 0.361773 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m06s_210.jpg
+2025-08-07 03:36:06 | State: DROWSY | EAR: 0.0972001 | MAR: 0.338641 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m06s_485.jpg
+2025-08-07 03:36:06 | State: DROWSY | EAR: 0.0903886 | MAR: 0.364094 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m06s_717.jpg
+2025-08-07 03:36:07 | State: DROWSY | EAR: 0.0908929 | MAR: 0.363371 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m07s_050.jpg
+2025-08-07 03:36:07 | State: DROWSY | EAR: 0.0982606 | MAR: 0.348539 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m07s_255.jpg
+2025-08-07 03:36:07 | State: DROWSY | EAR: 0.0623786 | MAR: 0.359762 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m07s_476.jpg
+2025-08-07 03:36:07 | State: DROWSY | EAR: 0.0877973 | MAR: 0.359937 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m07s_757.jpg
+2025-08-07 03:36:07 | State: DROWSY | EAR: 0.0960242 | MAR: 0.371243 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m07s_963.jpg
+2025-08-07 03:36:08 | State: DROWSY | EAR: 0.0966359 | MAR: 0.359 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m08s_207.jpg
+2025-08-07 03:36:08 | State: DROWSY | EAR: 0.107363 | MAR: 0.352083 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m08s_429.jpg
+2025-08-07 03:36:08 | State: DROWSY | EAR: 0.123007 | MAR: 0.357311 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m08s_651.jpg
+2025-08-07 03:36:08 | State: DROWSY | EAR: 0.104284 | MAR: 0.372179 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m08s_919.jpg
+2025-08-07 03:36:09 | State: DROWSY | EAR: 0.0942353 | MAR: 0.350437 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m09s_155.jpg
+2025-08-07 03:36:09 | State: DROWSY | EAR: 0.0890705 | MAR: 0.36071 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m09s_406.jpg
+2025-08-07 03:36:09 | State: DROWSY | EAR: 0.0876603 | MAR: 0.358152 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m09s_646.jpg
+2025-08-07 03:36:09 | State: DROWSY | EAR: 0.0939689 | MAR: 0.372875 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m09s_869.jpg
+2025-08-07 03:36:10 | State: DROWSY | EAR: 0.103012 | MAR: 0.357985 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m10s_071.jpg
+2025-08-07 03:36:10 | State: DROWSY | EAR: 0.095802 | MAR: 0.374033 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m10s_322.jpg
+2025-08-07 03:36:10 | State: DROWSY | EAR: 0.0812965 | MAR: 0.355666 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m10s_545.jpg
+2025-08-07 03:36:10 | State: DROWSY | EAR: 0.088913 | MAR: 0.368315 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m10s_742.jpg
+2025-08-07 03:36:11 | State: DROWSY | EAR: 0.08729 | MAR: 0.370725 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m10s_983.jpg
+2025-08-07 03:36:11 | State: DROWSY | EAR: 0.0720234 | MAR: 0.362817 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m11s_214.jpg
+2025-08-07 03:36:11 | State: DROWSY | EAR: 0.0628531 | MAR: 0.351225 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m11s_490.jpg
+2025-08-07 03:36:11 | State: DROWSY | EAR: 0.073816 | MAR: 0.366975 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m11s_737.jpg
+2025-08-07 03:36:12 | State: DROWSY | EAR: 0.0660259 | MAR: 0.364907 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m11s_981.jpg
+2025-08-07 03:36:12 | State: DROWSY | EAR: 0.105546 | MAR: 0.354363 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m12s_204.jpg
+2025-08-07 03:36:12 | State: DROWSY | EAR: 0.0718444 | MAR: 0.360829 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m12s_424.jpg
+2025-08-07 03:36:12 | State: DROWSY | EAR: 0.10728 | MAR: 0.359023 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m12s_698.jpg
+2025-08-07 03:36:12 | State: DROWSY | EAR: 0.0954096 | MAR: 0.358351 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m12s_913.jpg
+2025-08-07 03:36:13 | State: DROWSY | EAR: 0.0989235 | MAR: 0.363317 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m13s_178.jpg
+2025-08-07 03:36:13 | State: DROWSY | EAR: 0.10636 | MAR: 0.358189 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m13s_400.jpg
+2025-08-07 03:36:13 | State: DROWSY | EAR: 0.0994597 | MAR: 0.373143 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m13s_615.jpg
+2025-08-07 03:36:13 | State: DROWSY | EAR: 0.0955105 | MAR: 0.37829 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m13s_908.jpg
+2025-08-07 03:36:14 | State: DROWSY | EAR: 0.0790538 | MAR: 0.389333 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m14s_156.jpg
+2025-08-07 03:36:14 | State: DROWSY | EAR: 0.0811895 | MAR: 0.368746 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m14s_403.jpg
+2025-08-07 03:36:14 | State: DROWSY | EAR: 0.108334 | MAR: 0.356075 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m14s_644.jpg
+2025-08-07 03:36:14 | State: DROWSY | EAR: 0.149423 | MAR: 0.392586 | Message: Driver showing signs of drowsiness | Image: snapshots/drowsy_detected_Aug07_2025_03h36m14s_863.jpg

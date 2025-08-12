@@ -34,7 +34,7 @@ include_directories(
     "C:/Dlib"
 )
 
-add_executable(OpenCVExample main.cpp)
+add_executable(OpenCVExample main.cpp drowsiness_detector.cpp)
 
 # Link OpenCV and Dlib
 target_link_libraries(OpenCVExample ${OpenCV_LIBS} dlib::dlib)
