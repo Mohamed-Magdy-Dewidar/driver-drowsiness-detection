@@ -36,15 +36,24 @@ Real-time driver drowsiness detection system that leverages facial landmarks to 
 ```bash
 📦 driver-drowsiness-detection
 ├── CMakeLists.txt
-├── main.cpp
 ├── include/
-│   ├── detector.hpp        # Face & landmark detection
-│   ├── ear_mar.hpp         # EAR / MAR calculation
-│   ├── logger.hpp          # Logging class
-│   └── classifier.hpp      # Driver state classifier
+│   ├── constants.h              # All constants and landmark indices
+│   ├── config.h                 # Configuration structure
+│   ├── driver_state.h           # DriverState enum and StateTracker class
+│   ├── logger.h                 # Logging system (singleton pattern)
+│   ├── cv_utils.h               # Computer vision utility functions
+│   ├── facial_landmark_detector.h # Face detection and landmark extraction
+│   └── drowsiness_detection_system.h # Main system controller
+├── src/
+│   ├── logger.cpp               # Logger implementation
+│   ├── driver_state.cpp         # StateTracker implementation  
+│   ├── cv_utils.cpp             # CV utility functions implementation
+│   ├── facial_landmark_detector.cpp # Face detection implementation
+│   └── drowsiness_detection_system.cpp # Main system implementation
+└── main.cpp                     # Entry point
 ├── models/
 │   └── shape_predictor_68_face_landmarks.dat
-├── data/
+├── Videos/
 │   └── test.mp4            # Sample input (optional)
 └── build/
 ```
