@@ -21,7 +21,6 @@ namespace DrowsinessDetector
     {
         std::call_once(once_flag_, []()
                        { instance_ = std::unique_ptr<Logger>(new Logger()); });
-        std::cout << "Logging Singleton instance at: " << instance_.get() << std::endl;
         return *instance_;
     }
 
@@ -51,8 +50,6 @@ namespace DrowsinessDetector
                      const cv::Mat &frame)
     {
         Logger &logger = getInstance();
-        std::cout << "Logging Singleton instance at: " << logger.instance_.get() << std::endl;
-
         if (!logger.is_initialized_)
         {
             std::cerr << "Error: Logger not initialized. Call setupConfig() first." << std::endl;
@@ -115,13 +112,13 @@ namespace DrowsinessDetector
     {
         std::string image_filename;
         if (config_.save_snapshots && !frame.empty() &&
-            (state == DriverState::DROWSY || state == DriverState::DROWSY_YAWNING))
+            (state !=  DriverState::ALERT))
         {
             image_filename = saveSnapshot(frame);
         }
 
         LogEntry entry(state, message, ear, mar, image_filename);
-
+        
         // Console output (immediate optional)
         // printToConsole(entry);
 

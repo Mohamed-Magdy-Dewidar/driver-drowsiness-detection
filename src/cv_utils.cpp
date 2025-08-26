@@ -41,6 +41,7 @@ namespace DrowsinessDetector
             case DriverState::YAWNING:
                 return config.warning_color;
             case DriverState::DROWSY:
+                return config.warning_color;
             case DriverState::DROWSY_YAWNING:
                 return config.danger_color;
             default:

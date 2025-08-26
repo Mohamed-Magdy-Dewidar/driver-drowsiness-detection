@@ -7,26 +7,29 @@ namespace DrowsinessDetector
         bool is_drowsy = checkDrowsiness(ear, config);
         bool is_yawning = checkYawning(mar, config);
 
-        DriverState current_state;
+        DriverState current_state = getCurrentDriverState(is_drowsy, is_yawning);
+        last_state_ = current_state;
+        return current_state;
+    }
+
+    DriverState StateTracker::getCurrentDriverState(bool is_drowsy, bool is_yawning) const
+    {
         if (is_drowsy && is_yawning)
         {
-            current_state = DriverState::DROWSY_YAWNING;
+            return DriverState::DROWSY_YAWNING;
         }
         else if (is_drowsy)
         {
-            current_state = DriverState::DROWSY;
+            return DriverState::DROWSY;
         }
         else if (is_yawning)
         {
-            current_state = DriverState::YAWNING;
+            return DriverState::YAWNING;
         }
         else
         {
-            current_state = DriverState::ALERT;
+            return DriverState::ALERT;
         }
-
-        last_state_ = current_state;
-        return current_state;
     }
 
     double StateTracker::getEyesClosedDuration() const

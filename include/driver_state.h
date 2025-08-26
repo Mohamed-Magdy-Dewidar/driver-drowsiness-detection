@@ -31,6 +31,7 @@ namespace DrowsinessDetector
     private:
         bool checkDrowsiness(double ear, const Config &config);
         bool checkYawning(double mar, const Config &config);
+        DriverState getCurrentDriverState(bool is_drowsy , bool is_yawning) const;
     };
 }
 
