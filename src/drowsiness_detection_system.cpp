@@ -42,11 +42,9 @@ namespace DrowsinessDetector
 
         cv::Mat frame;
 
-        auto start = std::chrono::high_resolution_clock::now();
+        // auto start = std::chrono::high_resolution_clock::now();
         int frame_count = 0;
         int processed_frames = 0;
-        int sum_frames_processed = 0;
-
         while (cap.read(frame))
         {
             if (frame.empty())
@@ -80,7 +78,7 @@ namespace DrowsinessDetector
                 break;
             }
         }
-        std::cout << "Total Processed Frames: " << sum_frames_processed + processed_frames << std::endl;
+        std::cout << "Total Processed Frames: " << processed_frames << std::endl;
         cleanup();
         return EXIT_SUCCESS;
     }
@@ -95,7 +93,7 @@ namespace DrowsinessDetector
         if (!face_detected)
         {
             drawNoFaceDetected(frame);
-            Logger::log(DriverState::NO_FACE_DETECTED, "No face detected", 0.0, 0.0);
+            Logger::log(DriverState::NO_FACE_DETECTED, "No face detected", 0.0 , 0.0 , frame);
             return;
         }
 
@@ -174,8 +172,7 @@ namespace DrowsinessDetector
             cv::Mat display_frame = (using_optimizations && !config_.show_full_frame) ? roi_frame : frame;
             drawNoFaceDetected(display_frame);
             cv::imshow("Drowsiness Detection System", display_frame);
-
-            Logger::log(DriverState::NO_FACE_DETECTED, "No face detected", 0.0, 0.0);
+            Logger::log(DriverState::NO_FACE_DETECTED, "No face detected", 0.0, 0.0 , frame);
             have_previous_face_location = false;
             return;
         }
@@ -214,7 +211,6 @@ namespace DrowsinessDetector
                 last_face_rect_ = face_rect;
                 have_previous_face_location = true;
             }
-
             cv::imshow("Drowsiness Detection System", frame);
 
             // Log with original frame

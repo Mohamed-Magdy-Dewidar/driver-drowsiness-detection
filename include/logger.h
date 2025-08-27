@@ -82,6 +82,7 @@ namespace DrowsinessDetector
         void printToConsole(const LogEntry &entry);
         void processLogQueue();
         void writeToFile(std::ofstream &file, const LogEntry &entry);
+        std::string formatLogTimestamp(const std::chrono::system_clock::time_point& tp);
     };
 }
 

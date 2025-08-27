@@ -4,6 +4,7 @@
 #include <iomanip>
 #include <sstream>
 #include <filesystem>
+#include <nlohmann/json.hpp>
 
 namespace DrowsinessDetector
 {
@@ -112,15 +113,19 @@ namespace DrowsinessDetector
     {
         std::string image_filename;
         if (config_.save_snapshots && !frame.empty() &&
-            (state !=  DriverState::ALERT))
+            (state != DriverState::ALERT))
         {
             image_filename = saveSnapshot(frame);
         }
 
         LogEntry entry(state, message, ear, mar, image_filename);
+
         
-        // Console output (immediate optional)
-        // printToConsole(entry);
+        if(config_.enable_console_logging)
+           printToConsole(entry);
+
+        
+           
 
         // File logging (async)
         if (config_.enable_file_logging)
@@ -207,22 +212,49 @@ namespace DrowsinessDetector
         }
     }
 
+    std::string Logger::formatLogTimestamp(const std::chrono::system_clock::time_point &tp)
+    {
+        // Convert timestamp to time_t
+        std::time_t time_t = std::chrono::system_clock::to_time_t(tp);
+        std::stringstream ss;
+        ss << std::put_time(std::localtime(&time_t), "%b%d_%Y_%Hh%Mm%Ss");
+        return ss.str();
+    }
+
+    
     void Logger::writeToFile(std::ofstream &file, const LogEntry &entry)
     {
         if (!file.is_open())
             return;
-
-        auto time_t = std::chrono::system_clock::to_time_t(entry.timestamp);
-        file << std::put_time(std::localtime(&time_t), "%Y-%m-%d %H:%M:%S")
-             << " | State: " << stateToString(entry.state)
-             << " | EAR: " << entry.ear_value
-             << " | MAR: " << entry.mar_value
-             << " | Message: " << entry.message;
-
-        if (!entry.image_filename.empty())
+        std::string log_entry_time_stamp_str = formatLogTimestamp(entry.timestamp);
+        if (config_.enable_file_logging_json)
         {
-            file << " | Image: " << entry.image_filename;
+            // JSON log entry
+            nlohmann::json log_json;
+            log_json["timestamp"] = log_entry_time_stamp_str;
+            log_json["state"] = stateToString(entry.state);
+            log_json["ear"] = entry.ear_value;
+            log_json["mar"] = entry.mar_value;
+            log_json["message"] = entry.message;
+            if (!entry.image_filename.empty())
+                log_json["image"] = entry.image_filename;
+
+            file << log_json.dump() << "\n";
         }
-        file << "\n";
+        else
+        {
+            // Plain text log entry
+            file << log_entry_time_stamp_str
+                 << " | State: " << stateToString(entry.state)
+                 << " | EAR: " << entry.ear_value
+                 << " | MAR: " << entry.mar_value
+                 << " | Message: " << entry.message;
+
+            if (!entry.image_filename.empty())
+                file << " | Image: " << entry.image_filename;
+
+            file << "\n";
+        }
     }
+
 }
