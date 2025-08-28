@@ -12,6 +12,7 @@
 #include <opencv2/opencv.hpp>
 #include "driver_state.h"
 #include "config.h"
+#include "message_publisher.h"
 
 namespace DrowsinessDetector
 {
@@ -35,6 +36,14 @@ namespace DrowsinessDetector
         static std::once_flag once_flag_;
         static std::mutex instance_mutex_;
 
+        std::unique_ptr<MessagePublisher> message_publisher_;
+        // std::ofstream log_file_;
+        mutable std::mutex file_mutex_;
+
+        // Statistics
+        size_t total_events_logged_;
+        size_t images_saved_;
+
         // Instance members
         std::queue<LogEntry> log_queue_;
         std::mutex queue_mutex_;
@@ -44,7 +53,9 @@ namespace DrowsinessDetector
         bool is_initialized_{false};
 
         // Private constructor - prevents direct instantiation
-        Logger() = default;
+        // Logger() = default;
+        Logger() : message_publisher_(nullptr), total_events_logged_(0),
+                   images_saved_(0) {}
 
         // Delete copy constructor and assignment operator
         Logger(const Logger &) = delete;
@@ -64,6 +75,10 @@ namespace DrowsinessDetector
         static void log(DriverState state, const std::string &message, double ear, double mar,
                         const cv::Mat &frame = cv::Mat());
 
+        // Get publishing statistics
+        void getStats(size_t &events_logged, size_t &images_saved,
+                      size_t &messages_sent, size_t &messages_failed) const;
+
         // Static shutdown method
         static void shutdown();
 
@@ -81,8 +96,10 @@ namespace DrowsinessDetector
         std::string saveSnapshot(const cv::Mat &frame);
         void printToConsole(const LogEntry &entry);
         void processLogQueue();
+        std::string LogEntryToJsonString(const LogEntry &entry);
         void writeToFile(std::ofstream &file, const LogEntry &entry);
-        std::string formatLogTimestamp(const std::chrono::system_clock::time_point& tp);
+        void publishMessage(const std::string &json_entry);
+        std::string formatLogTimestamp(const std::chrono::system_clock::time_point &tp);
     };
 }
 

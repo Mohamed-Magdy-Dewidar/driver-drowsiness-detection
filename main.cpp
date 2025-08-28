@@ -12,6 +12,9 @@ int main()
 
         // Initialize logger with configuration
         DrowsinessDetector::Logger::getInstance().setupConfig(config);
+        // Use:
+        
+        // DrowsinessDetector::Logger::getInstance().setupConfig(config, true, "tcp://*:5555");
 
         // Create and initialize the detection system
         DrowsinessDetector::DrowsinessDetectionSystem system(config);

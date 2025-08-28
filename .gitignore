@@ -16,3 +16,7 @@ Makefile
 *.suo
 *.user
 *.vcxproj.user
+
+
+# Environment variables
+.env

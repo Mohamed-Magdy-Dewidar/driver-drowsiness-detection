@@ -44,6 +44,13 @@ namespace DrowsinessDetector
         int frame_skip = 1; // Process every N frames
 
 
+        // Zero Mq Configurations
+        std::string zmq_endpoint = "tcp://*:5555";
+        // Configuration
+        bool enable_publishing_ = true;
+
+        
+
         // Display settings 
         bool show_debug_info = true;
         cv::Scalar alert_color = cv::Scalar(0, 255, 0);
