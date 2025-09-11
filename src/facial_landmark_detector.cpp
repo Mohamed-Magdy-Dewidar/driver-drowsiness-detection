@@ -55,7 +55,6 @@ namespace DrowsinessDetector
             extractEyePoints(landmarks, LandmarkIndices::LEFT_EYE_START, LandmarkIndices::LEFT_EYE_END, left_eye);
             extractEyePoints(landmarks, LandmarkIndices::RIGHT_EYE_START, LandmarkIndices::RIGHT_EYE_END, right_eye);
             extractMouthPoints(landmarks, mouth);
-
             return true;
         }
         catch (const std::exception &e)

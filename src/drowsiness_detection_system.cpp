@@ -79,7 +79,7 @@ namespace DrowsinessDetector
             }
         }
         std::cout << "Total Processed Frames: " << processed_frames << std::endl;
-        cleanup();
+        cleanup();        
         return EXIT_SUCCESS;
     }
 

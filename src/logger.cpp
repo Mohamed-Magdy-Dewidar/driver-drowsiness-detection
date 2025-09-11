@@ -40,7 +40,7 @@ namespace DrowsinessDetector
 
         if (config_.enable_file_logging || config_.enable_publishing_)
         {
-            worker_thread_ = std::thread(&Logger::processLogQueue, this);
+            worker_thread_ = std::thread(&Logger::processLogQueue , this);
         }
         if (config_.enable_publishing_)
         {

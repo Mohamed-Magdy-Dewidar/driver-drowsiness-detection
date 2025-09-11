@@ -6,7 +6,7 @@
 
 namespace DrowsinessDetector
 {
-    struct Config
+    struct Config 
     {
         // Detection thresholds
         double ear_threshold = 0.25;
@@ -45,9 +45,8 @@ namespace DrowsinessDetector
 
 
         // Zero Mq Configurations
-        std::string zmq_endpoint = "tcp://*:5555";
-        // Configuration
-        bool enable_publishing_ = true;
+        std::string zmq_endpoint = "tcp://*:5555";        
+        bool enable_publishing_ = false;
 
         
 
