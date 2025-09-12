@@ -179,38 +179,39 @@ class DrowsinessCloudService:
         
         logger.info(f"Connected to ZeroMQ at {config['zmq_endpoint']}")
     
+    
+
     def _get_s3_paths(self, timestamp_str: str, filename: str) -> tuple:
-        """Generate S3 paths based on timestamp and filename"""
+        """Generate S3 paths based on timestamp and filename with flexible parsing"""        
         try:
-            # Parse timestamp - expecting format like "Aug27_2025_06h47m10s_276"
-            dt_part = timestamp_str.split('_')[1:3]  # ['2025', '06h47m10s']
-            year = dt_part[0]
-            
-            # Extract month and day from filename if available
-            if 'Aug27_2025' in timestamp_str:
-                # Parse the date part
-                date_part = timestamp_str.split('_')[0:2]  # ['Aug27', '2025']
-                month_name = date_part[0][:3]  # 'Aug'
-                day = date_part[0][3:]  # '27'
-                
-                # Convert month name to number
-                month_map = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
-                           'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',
-                           'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
-                month = month_map.get(month_name, '01')
+            # Try to parse the timestamp flexibly
+            # Case 1: format like "Aug27_2025_06h47m10s_276"
+            if "_" in timestamp_str and len(timestamp_str.split("_")) >= 2:
+                date_part = timestamp_str.split("_")[0]   # e.g., "Aug27"
+                year_part = timestamp_str.split("_")[1]   # e.g., "2025"
+
+            # Parse "Aug27" → month + day
+                month_name = date_part[:3]                # "Aug"
+                day = date_part[3:]                       # "27"
+
+                month_map = {
+                   'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
+                   'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',
+                   'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'
+                }
+                month = month_map.get(month_name, f"{datetime.now().month:02d}")
+                year = year_part
+
             else:
-                # Fallback to current date
-                now = datetime.now()
-                month = f"{now.month:02d}"
-                day = f"{now.day:02d}"
-                year = str(now.year)
-            
-            # Generate paths
+                # Case 2: ISO-like timestamp
+                dt = datetime.fromisoformat(timestamp_str.replace("Z", ""))
+                year, month, day = str(dt.year), f"{dt.month:02d}", f"{dt.day:02d}"
+
+            # Build paths
             date_path = f"{year}/{month}/{day}"
             snapshot_key = f"snapshots/{date_path}/{os.path.basename(filename)}"
-            
-            return snapshot_key, date_path
-            
+            return snapshot_key, date_path        
+        
         except Exception as e:
             logger.warning(f"Error parsing timestamp '{timestamp_str}': {e}")
             # Fallback to current date
@@ -218,7 +219,11 @@ class DrowsinessCloudService:
             date_path = f"{now.year}/{now.month:02d}/{now.day:02d}"
             snapshot_key = f"snapshots/{date_path}/{os.path.basename(filename)}"
             return snapshot_key, date_path
-    
+
+
+
+
+
     def _process_event(self, event_data: Dict[str, Any]) -> None:
         """Process a single event: upload image and buffer log entry"""
         try:
@@ -365,8 +370,8 @@ def load_config() -> Dict[str, Any]:
         'zmq_endpoint': os.getenv('ZMQ_ENDPOINT', 'tcp://localhost:5555'),
         
         # AWS S3 settings
-        's3_bucket': os.getenv('S3_BUCKET', 'drowsiness-detection-data'),
-        'aws_region': os.getenv('AWS_REGION', 'us-east-1'),
+        's3_bucket': os.getenv('S3_BUCKET', ''),
+        'aws_region': os.getenv('AWS_REGION', ''),
         
         # Service settings
         'batch_flush_interval': int(os.getenv('BATCH_FLUSH_INTERVAL', '60')),
