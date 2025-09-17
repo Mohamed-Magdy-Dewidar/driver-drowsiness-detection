@@ -46,7 +46,7 @@ namespace DrowsinessDetector
 
         // Zero Mq Configurations
         std::string zmq_endpoint = "tcp://*:5555";        
-        bool enable_publishing_ = true;
+        bool enable_publishing_ = false;
 
         
 

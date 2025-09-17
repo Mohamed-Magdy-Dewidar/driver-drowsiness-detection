@@ -68,7 +68,7 @@ namespace DrowsinessDetector
                                                   std::vector<cv::Point2f> &eye_points)
     {
         eye_points.clear();
-        for (int i = start; i <= end; ++i)
+        for (int i = start; i < (end + 1); ++i)
         {
             eye_points.emplace_back(landmarks.part(i).x(), landmarks.part(i).y());
         }
@@ -78,7 +78,7 @@ namespace DrowsinessDetector
                                                     std::vector<cv::Point2f> &mouth_points)
     {
         mouth_points.clear();
-        for (int i = LandmarkIndices::MOUTH_START; i <= LandmarkIndices::MOUTH_END; ++i)
+        for (int i = LandmarkIndices::MOUTH_START; i < (LandmarkIndices::MOUTH_END + 1); ++i)
         {
             mouth_points.emplace_back(landmarks.part(i).x(), landmarks.part(i).y());
         }
