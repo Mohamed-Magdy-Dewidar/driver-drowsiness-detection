@@ -13,18 +13,6 @@ namespace DrowsinessDetector
         double mar_threshold = 0.7;
         double drowsy_time_seconds = 2.0;
 
-        // image processing settings
-        double resize_scale = 0.5; // 50% reduction = 4x faster processing
-        // 0.75 = moderate speedup, better accuracy
-        // 0.5 = significant speedup, good accuracy
-        // 0.25 = maximum speed, reduced accuracy
-        bool enable_resize = false;
-        bool enable_roi = false;
-        double roi_expansion_factor = 1.5;
-
-        // Display options
-        bool show_full_frame = true;  // Default to ROI view for better performance
-        bool show_debug_view = false; // Side-by-side comparison for development
 
         // logging options
         bool enable_console_logging = false;

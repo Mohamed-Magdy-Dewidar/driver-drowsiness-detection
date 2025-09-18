@@ -25,20 +25,6 @@ namespace DrowsinessDetector
 
     private:
         void processFrame(cv::Mat &frame);
-        void process_frame_old_way(cv::Mat &frame);
-         
-
-        void showDebugView(const cv::Mat &original_frame, const cv::Mat &roi_frame,
-                           const cv::Rect &face_rect, DriverState state,
-                           double avg_ear, double mar);
-        cv::Rect expandRect(const cv::Rect &rect, double factor, const cv::Size &frame_size);
-        void transformCoordinatesBack(cv::Rect &face_rect,
-                                      std::vector<cv::Point2f> &left_eye,
-                                      std::vector<cv::Point2f> &right_eye,
-                                      std::vector<cv::Point2f> &mouth,
-                                      double scale_factor,
-                                      cv::Point2f roi_offset);
-        void updateFaceTracking(const cv::Rect &face_rect, double scale_factor);
         void drawNoFaceDetected(cv::Mat &frame);
         void drawVisualization(cv::Mat &frame, const cv::Rect &face_rect, DriverState state,
                                double ear, double mar);
