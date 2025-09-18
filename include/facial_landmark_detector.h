@@ -19,10 +19,12 @@ namespace DrowsinessDetector
 
     public:
         bool initialize(const std::string &model_path);
-        bool detectFaceAndLandmarks(const cv::Mat &frame, cv::Rect &face_rect,
-                                    std::vector<cv::Point2f> &left_eye,
-                                    std::vector<cv::Point2f> &right_eye,
-                                    std::vector<cv::Point2f> &mouth);
+
+        bool detectFaceAndAllLandmarks(const cv::Mat &frame, cv::Rect &face_rect,
+                                       std::vector<cv::Point2f> &left_eye,
+                                       std::vector<cv::Point2f> &right_eye,
+                                       std::vector<cv::Point2f> &mouth,
+                                       dlib::full_object_detection &all_landmarks);
 
     private:
         void extractEyePoints(const dlib::full_object_detection &landmarks, int start, int end,

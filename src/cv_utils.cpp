@@ -42,7 +42,11 @@ namespace DrowsinessDetector
                 return config.warning_color;
             case DriverState::DROWSY:
                 return config.warning_color;
+            case DriverState::DISTRACTED: // NEW
+                return config.warning_color;
             case DriverState::DROWSY_YAWNING:
+                return config.danger_color;
+            case DriverState::DROWSY_DISTRACTED: // NEW
                 return config.danger_color;
             default:
                 return cv::Scalar(128, 128, 128); // Gray for unknown states

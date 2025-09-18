@@ -14,16 +14,16 @@ struct MemoryTracker
     static uint64_t total_freed_size;
     static void DisplayMemoryUsage()
     {
-        std::cout << "Number Of Memory Allocations: " << alloc_count << "\n";
-        std::cout << "Total allocated size: " << total_allocated_size << " bytes" << std::endl;
-        std::cout << "Number Of Memory Deallocations: " << freed_alloc_count << "\n";
-        std::cout << "Total freed size: " << total_freed_size << " bytes" << std::endl;
-        std::cout << "Net memory allocated : " << (total_allocated_size - total_freed_size) << " bytes" << std::endl;
+        // std::cout << "Number Of Memory Allocations: " << alloc_count << "\n";
+        // std::cout << "Total allocated size: " << total_allocated_size << " bytes" << std::endl;
+        // std::cout << "Number Of Memory Deallocations: " << freed_alloc_count << "\n";
+        // std::cout << "Total freed size: " << total_freed_size << " bytes" << std::endl;
+        // std::cout << "Net memory allocated : " << (total_allocated_size - total_freed_size) << " bytes" << std::endl;
+        // std::cout << "Allocations per frame: " << alloc_count / 823.0 << std::endl;
         double allocation_efficiency = (double)total_freed_size / total_allocated_size * 100.0;
         double avg_allocation_size = (double)total_allocated_size / alloc_count;
         std::cout << "Memory efficiency: " << allocation_efficiency << "%" << std::endl;
-        std::cout << "Average allocation size: " << avg_allocation_size << " bytes" << std::endl;
-        std::cout << "Allocations per frame: " << alloc_count / 823.0 << std::endl;
+        // std::cout << "Average allocation size: " << avg_allocation_size << " bytes" << std::endl;
     }
 };
 
@@ -77,12 +77,9 @@ int main()
     {
         // Create configuration
         DrowsinessDetector::Config config;
-
+                        
         // Initialize logger with configuration
         DrowsinessDetector::Logger::getInstance().setupConfig(config);
-        // Use:
-
-        // DrowsinessDetector::Logger::getInstance().setupConfig(config, true, "tcp://*:5555");
 
         // Create and initialize the detection system
         DrowsinessDetector::DrowsinessDetectionSystem system(config);

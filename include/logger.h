@@ -23,7 +23,9 @@ namespace DrowsinessDetector
         std::string message;
         double ear_value;
         double mar_value;
+        double head_yaw = 0.0;
         std::string image_filename;
+        LogEntry(DriverState s, const std::string &msg, double ear, double mar, double yaw, const std::string &img = "");
         LogEntry(DriverState s, const std::string &msg, double ear, double mar, const std::string &img = "");
     };
 
@@ -36,7 +38,6 @@ namespace DrowsinessDetector
         static std::mutex instance_mutex_;
 
         std::unique_ptr<MessagePublisher> message_publisher_;
-        
 
         // Statistics
         size_t total_events_logged_;
@@ -69,6 +70,10 @@ namespace DrowsinessDetector
         // Setup configuration - must be called before using the logger
         void setupConfig(const Config &config);
 
+        // with head pose enabled
+        static void log(DriverState state, const std::string &message, double ear, double mar,
+                        double head_yaw, const cv::Mat &frame);
+
         static void log(DriverState state, const std::string &message,
                         double ear, double mar, const cv::Mat &frame);
 
@@ -86,6 +91,10 @@ namespace DrowsinessDetector
 
     private:
         void shutdownImpl();
+        // with head pose enabled
+        void logImpl(DriverState state, const std::string &message, double ear, double mar,
+                     double head_yaw, const cv::Mat &frame);
+
         void logImpl(DriverState state, const std::string &message, double ear, double mar,
                      const cv::Mat &frame);
 

@@ -21,10 +21,11 @@ namespace DrowsinessDetector
         }
     }
 
-    bool FacialLandmarkDetector::detectFaceAndLandmarks(const cv::Mat &frame, cv::Rect &face_rect,
-                                                        std::vector<cv::Point2f> &left_eye,
-                                                        std::vector<cv::Point2f> &right_eye,
-                                                        std::vector<cv::Point2f> &mouth)
+    bool FacialLandmarkDetector::detectFaceAndAllLandmarks(const cv::Mat &frame, cv::Rect &face_rect,
+                                                           std::vector<cv::Point2f> &left_eye,
+                                                           std::vector<cv::Point2f> &right_eye,
+                                                           std::vector<cv::Point2f> &mouth,
+                                                           dlib::full_object_detection &all_landmarks)
     {
         if (!is_initialized_ || frame.empty())
             return false;
@@ -44,17 +45,17 @@ namespace DrowsinessDetector
                                                          return a.area() < b.area();
                                                      });
 
-            dlib::full_object_detection landmarks = landmark_predictor_(dlib_img, face);
-            if (landmarks.num_parts() != Constants::FACE_LANDMARK_COUNT)
+            all_landmarks = landmark_predictor_(dlib_img, face);
+            if (all_landmarks.num_parts() != Constants::FACE_LANDMARK_COUNT)
                 return false;
 
             // Convert to OpenCV format and extract features
             face_rect = cv::Rect(face.left(), face.top(), face.width(), face.height()) &
                         cv::Rect(0, 0, frame.cols, frame.rows);
 
-            extractEyePoints(landmarks, LandmarkIndices::LEFT_EYE_START, LandmarkIndices::LEFT_EYE_END, left_eye);
-            extractEyePoints(landmarks, LandmarkIndices::RIGHT_EYE_START, LandmarkIndices::RIGHT_EYE_END, right_eye);
-            extractMouthPoints(landmarks, mouth);
+            extractEyePoints(all_landmarks, LandmarkIndices::LEFT_EYE_START, LandmarkIndices::LEFT_EYE_END, left_eye);
+            extractEyePoints(all_landmarks, LandmarkIndices::RIGHT_EYE_START, LandmarkIndices::RIGHT_EYE_END, right_eye);
+            extractMouthPoints(all_landmarks, mouth);
             return true;
         }
         catch (const std::exception &e)

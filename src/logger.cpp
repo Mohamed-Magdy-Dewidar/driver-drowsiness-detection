@@ -14,9 +14,13 @@ namespace DrowsinessDetector
     std::mutex Logger::instance_mutex_;
 
     // LogEntry constructor
-    LogEntry::LogEntry(DriverState s, const std::string &msg, double ear, double mar, const std::string &img)
-        : timestamp(std::chrono::system_clock::now()), state(s), message(msg),
-          ear_value(ear), mar_value(mar), image_filename(img) {}
+    LogEntry::LogEntry(DriverState s, const std::string &msg, double ear, double mar, double headYaw, const std::string &img) : timestamp(std::chrono::system_clock::now()), state(s), message(msg), ear_value(ear), mar_value(mar), head_yaw(headYaw), image_filename(img)
+    {
+    }
+
+    LogEntry::LogEntry(DriverState s, const std::string &msg, double ear, double mar, const std::string &img) : timestamp(std::chrono::system_clock::now()), state(s), message(msg), ear_value(ear), mar_value(mar), image_filename(img)
+    {
+    }
 
     Logger &Logger::getInstance()
     {
@@ -40,7 +44,7 @@ namespace DrowsinessDetector
 
         if (config_.enable_file_logging || config_.enable_publishing_)
         {
-            worker_thread_ = std::thread(&Logger::processLogQueue , this);
+            worker_thread_ = std::thread(&Logger::processLogQueue, this);
         }
         if (config_.enable_publishing_)
         {
@@ -60,6 +64,21 @@ namespace DrowsinessDetector
         std::cout << "Logger initialized successfully" << "\n";
     }
 
+    // @@ with head pose enabled
+    void Logger::log(DriverState state, const std::string &message, double ear, double mar,
+                     double head_yaw, const cv::Mat &frame)
+    {
+        Logger &logger = getInstance();
+        if (!logger.is_initialized_)
+        {
+            std::cerr << "Error: Logger not initialized. Call setupConfig() first." << "\n";
+            return;
+        }
+
+        logger.logImpl(state, message, ear, mar, head_yaw, frame);
+    }
+
+    // @@ without head pose
     void Logger::log(DriverState state, const std::string &message, double ear, double mar,
                      const cv::Mat &frame)
     {
@@ -72,7 +91,6 @@ namespace DrowsinessDetector
 
         logger.logImpl(state, message, ear, mar, frame);
     }
-
     void Logger::shutdown()
     {
         std::lock_guard<std::mutex> lock(instance_mutex_);
@@ -103,6 +121,10 @@ namespace DrowsinessDetector
             return "YAWNING";
         case DriverState::DROWSY_YAWNING:
             return "DROWSY_YAWNING";
+        case DriverState::DISTRACTED: // NEW
+            return "DISTRACTED";
+        case DriverState::DROWSY_DISTRACTED: // NEW
+            return "DROWSY_DISTRACTED";
         case DriverState::NO_FACE_DETECTED:
             return "NO_FACE";
         default:
@@ -110,6 +132,8 @@ namespace DrowsinessDetector
         }
     }
 
+
+    
     void Logger::shutdownImpl()
     {
         should_stop_ = true;
@@ -127,6 +151,38 @@ namespace DrowsinessDetector
         std::cout << "Logger shutdown complete" << "\n";
     }
 
+    // with head pose enabled
+    void Logger::logImpl(DriverState state, const std::string &message, double ear, double mar,
+                         double head_yaw, const cv::Mat &frame)
+    {
+        std::string image_filename;
+        if (config_.save_snapshots && !frame.empty() && (state != DriverState::ALERT))
+        {
+            image_filename = saveSnapshot(frame);
+        }
+        if (!image_filename.empty())
+            images_saved_++;
+
+        LogEntry entry(state, message, ear, mar, head_yaw, image_filename);
+
+        if (config_.enable_console_logging)
+            printToConsole(entry);
+
+        // File logging (async)
+        if (config_.enable_file_logging)
+        {
+            std::lock_guard<std::mutex> lock(queue_mutex_);
+            log_queue_.push(entry);
+
+            // Prevent queue from growing too large
+            while (log_queue_.size() > Constants::MAX_LOG_ENTRIES)
+            {
+                log_queue_.pop();
+            }
+        }
+    }
+
+    // with head pose disabled
     void Logger::logImpl(DriverState state, const std::string &message, double ear, double mar,
                          const cv::Mat &frame)
     {
@@ -196,12 +252,13 @@ namespace DrowsinessDetector
     }
 
     void Logger::printToConsole(const LogEntry &entry)
-    {       
+    {
         std::cout << this->formatLogTimestamp(entry.timestamp)
                   << " | " << stateToString(entry.state)
                   << " | EAR: " << std::fixed << std::setprecision(3) << entry.ear_value
                   << " | MAR: " << std::fixed << std::setprecision(3) << entry.mar_value
-                  << " | " << entry.message << "\n";
+                  << " | HEAD_YAW: " << std::fixed << std::setprecision(1) << entry.head_yaw << "°"
+                  << " | " << entry.message << std::endl;
     }
 
     void Logger::processLogQueue()
@@ -226,10 +283,8 @@ namespace DrowsinessDetector
                     publishMessage(LogEntryToJsonString(entry));
                 temp_queue.pop();
             }
-
-            log_file.flush();
-            std::this_thread::sleep_for(std::chrono::milliseconds(400));
         }
+        log_file.flush();
     }
 
     void Logger::publishMessage(const std::string &json_entry)
@@ -266,14 +321,17 @@ namespace DrowsinessDetector
         return ss.str();
     }
 
-    // in header file std::string LogEntryToJsonString(const LogEntry &entry);
-    std::string Logger::LogEntryToJsonString(const LogEntry &entry) 
+    
+    std::string Logger::LogEntryToJsonString(const LogEntry &entry)
     {
         nlohmann::json log_json;
+
         log_json["timestamp"] = this->formatLogTimestamp(entry.timestamp);
         log_json["state"] = stateToString(entry.state);
         log_json["ear"] = entry.ear_value;
         log_json["mar"] = entry.mar_value;
+        if (entry.head_yaw != 0.0)
+            log_json["head_yaw"] = entry.head_yaw;
         log_json["message"] = entry.message;
         if (!entry.image_filename.empty())
             log_json["image"] = entry.image_filename;
@@ -288,21 +346,22 @@ namespace DrowsinessDetector
         std::string log_entry_time_stamp_str = this->formatLogTimestamp(entry.timestamp);
         if (config_.enable_file_logging_json)
         {
-            file << LogEntryToJsonString(entry) << "\n";
+            file << LogEntryToJsonString(entry) << std::endl;
         }
         else
         {
-            // Plain text log entry
+            // Plain text log entry        
             file << log_entry_time_stamp_str
                  << " | State: " << stateToString(entry.state)
                  << " | EAR: " << entry.ear_value
                  << " | MAR: " << entry.mar_value
+                 << " | HEAD_YAW: " << (entry.head_yaw == 0.0 ? "null" : std::to_string(entry.head_yaw)) << "°"
                  << " | Message: " << entry.message;
 
             if (!entry.image_filename.empty())
                 file << " | Image: " << entry.image_filename;
 
-            file << "\n";
+            file << std::endl;
         }
     }
 

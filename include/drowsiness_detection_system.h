@@ -6,6 +6,7 @@
 #include "config.h"
 #include "driver_state.h"
 #include "facial_landmark_detector.h"
+#include "head_pose_detector.h"
 
 namespace DrowsinessDetector
 {
@@ -14,6 +15,7 @@ namespace DrowsinessDetector
     private:
         Config config_;
         std::unique_ptr<FacialLandmarkDetector> detector_;
+        std::unique_ptr<HeadPoseDetector> head_pose_detector_;
         std::unique_ptr<StateTracker> state_tracker_;
         bool have_previous_face_location = false;
         cv::Rect last_face_rect_;
@@ -26,8 +28,20 @@ namespace DrowsinessDetector
     private:
         void processFrame(cv::Mat &frame);
         void drawNoFaceDetected(cv::Mat &frame);
+
+        // without head pose visualization
+        // void drawVisualization(cv::Mat &frame, const cv::Rect &face_rect, DriverState state,
+        //                        double ear, double mar);
+
         void drawVisualization(cv::Mat &frame, const cv::Rect &face_rect, DriverState state,
-                               double ear, double mar);
+                               double ear, double mar, const HeadPose &head_pose);
+
+        void drawVisualization(cv::Mat &frame, const cv::Rect &face_rect, DriverState state,
+                                                          double ear, double mar);
+
+            void drawHeadPoseVisualization(cv::Mat &frame, const HeadPose &head_pose,
+                                           const dlib::full_object_detection &landmarks);
+
         std::string generateStateMessage(DriverState state);
         void cleanup();
     };
